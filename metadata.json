@@ -1,0 +1,7 @@
+{
+  "name": "Hospital Santa Margarita - Gestión de Personal 1",
+  "description": "Aplicación móvil para la gestión de permisos, vacaciones, faltas y retardos en hospitales privados, siguiendo la Ley Federal del Trabajo de México.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
